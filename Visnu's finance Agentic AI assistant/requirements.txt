@@ -1,0 +1,10 @@
+  phi>=0.6.0
+  openai
+  python-dotenv
+  yfinance
+duckduckgo-search
+phidata
+fastapi
+streamlit
+ 
+  
