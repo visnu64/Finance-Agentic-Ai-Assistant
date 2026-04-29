@@ -2,7 +2,6 @@
 
 > An intelligent, autonomous AI agent that automatically selects and executes financial tools to answer your investment and market questions with precision.
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8%2B-green.svg)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 
@@ -237,17 +236,10 @@ pytest --cov=.  # With coverage
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 📞 Support & Contact
 
-- **Issues**: [GitHub Issues](https://github.com/visnu64/Finance-Agentic-Ai-Assistant/issues)
-- **Email**: [Contact via GitHub](https://github.com/visnu64)
-- **Documentation**: See [DOCUMENTATION.md](DOCUMENTATION.md)
+- **Email**: [Contact via email](visnusridhar2005@gmail.com)
+- **linkedin**: See [linkedin](https://linkedin.com/in/visnu-s)
 
 ---
 
@@ -256,18 +248,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with ❤️ for the financial community
 - Inspired by advanced AI agent frameworks
 - Thanks to the open-source community
-
----
-
-## 📈 Roadmap
-
-- [ ] Mobile app integration
-- [ ] Advanced portfolio analysis
-- [ ] Predictive market modeling
-- [ ] Multi-language support
-- [ ] Real-time price alerts
-- [ ] Backtesting capabilities
-- [ ] Custom agent workflows
 
 ---
 
@@ -280,7 +260,5 @@ Give a ⭐️ if this project helped you or inspired you!
 <div align="center">
 
 Made with 💙 by [visnu64](https://github.com/visnu64)
-
-[Report Bug](https://github.com/visnu64/Finance-Agentic-Ai-Assistant/issues) · [Request Feature](https://github.com/visnu64/Finance-Agentic-Ai-Assistant/issues)
 
 </div>
